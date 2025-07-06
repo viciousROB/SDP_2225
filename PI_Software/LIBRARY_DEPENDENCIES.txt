@@ -1,0 +1,19 @@
+--- C / C++ ---
+libopencv (4.xx, image storage types, basic filtering, yolo connection)
+yolo (mini, image processing model)
+libusb	(Automated Gimbal + LED Control [microcontroller connection to serial])
+GStreamer (Image acquisition)
+PThread + STD::Thread (Threading libary & hardware API)
+***TBD*** (Python API, Localhost port with socket???)
+***TBD*** (Folder access for videos and captures)
+
+
+--- Python ---
+pyserial(Webapp Gimbal + LED Control)
+flask	(WebApp)
+opencv-contrib-python (WebApp Image Visualization Backend)
+opencv-python	(WebApp Image Visualization)
+numpy		(Vectorization for quaternions, positions and Image-Matrix conversions)
+pandas		(backup dataframe for images on webapp)
+sys		(folder access for videos & captures)
+
